@@ -41,10 +41,6 @@ Bridging Web2 and Web3 with scalable, secure solutions. Currently leading techni
 - Building high-performance Web3 frontends
 - Optimizing DeFi protocols and NFT platforms
 
-### 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayampathiw&show_icons=true&theme=radical)](https://github.com/jayampathiw)
-
 
 ### 📫 Connect With Me
 
