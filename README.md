@@ -4,13 +4,14 @@
 
 Architecting high-performance enterprise applications with Angular 18 and modern web technologies. Specialized in building scalable platforms serving 10,000+ concurrent users with 99.9% uptime.
 
-### 💫 Key Achievements
+### Key Achievements
 
-- 🅰️ **Angular 18 Expertise**: Building production apps with Signals, Standalone Components, and NgRx hybrid patterns
-- 📈 **Enterprise Scale**: Platforms serving 1M+ users across Fortune 500 clients (CSG, Cinglevue)
-- ⚡ **Performance**: 95 Lighthouse scores, 75% load time reduction, 92% fewer re-renders
-- 🏗️ **Architecture**: Micro-frontend systems with 20+ modules, 50+ reusable component libraries
-- 🔗 **Cross-Framework**: Proven React/Next.js and blockchain expertise demonstrating technical versatility
+![Angular](https://img.shields.io/badge/Angular_18-Signals_|_Standalone_|_NgRx-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Users](https://img.shields.io/badge/Users-1M+-2196F3?style=flat-square&logo=googleanalytics&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-95+-4CAF50?style=flat-square&logo=lighthouse&logoColor=white)
+![Performance](https://img.shields.io/badge/Load_Time-75%25_Faster-FF9800?style=flat-square&logo=speedtest&logoColor=white)
+![Components](https://img.shields.io/badge/Components-50+_Reusable-9C27B0?style=flat-square&logo=storybook&logoColor=white)
+![Modules](https://img.shields.io/badge/Micro--frontends-20+_Modules-00BCD4?style=flat-square&logo=webpack&logoColor=white)
 
 ### 🛠️ Technical Expertise
 
