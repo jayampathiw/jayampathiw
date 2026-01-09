@@ -63,16 +63,14 @@ Architecting high-performance enterprise applications with Angular 18 and modern
 
 ### 💻 Technologies & Tools
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+#### Frontend
+[![Frontend Skills](https://skillicons.dev/icons?i=angular,ts,react,nextjs,redux,tailwind&theme=dark)](https://skillicons.dev)
+
+#### Backend & Database
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,graphql&theme=dark)](https://skillicons.dev)
+
+#### DevOps & Tools
+[![DevOps Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
